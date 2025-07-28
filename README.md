@@ -7,3 +7,6 @@ The data contained in each folder are as follows:
 - "optimized_structures_0K": The pressure-dependent 0 K structures of each of the phases of acrylamide.
 
 - "md_structures_300K": MD averaged structure of the final polymer obtained at different pressures for both slow compression and rapid compression.
+
+- "inputs": The inputs used for all the simulations carried out. They are separated into slow compression (SC) and rapid compression (RC) directories.
+The inputs for QE and CP2K simulations have extension ".in" and ".inp", respectively. Further details are mentioned in the text.
